@@ -1,2 +1,0 @@
-FROM mongo:3.6.5
-ENV MONGO_INITDB_DATABASE=salesapi 
